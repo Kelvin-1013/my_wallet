@@ -1,0 +1,18 @@
+# Ignore node_modules directory
+   node_modules/
+   * text=auto
+   # Ignore log files
+   *.log
+
+   # Ignore environment variables file
+   .env
+
+   # Ignore compiled files
+   *.class
+   *.o
+   *.exe
+
+   # Ignore IDE and editor specific files
+   .idea/
+   .vscode/
+   *.swp
